@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on Sudoku (Java Desktop Application)<br>🌱 I’m currently learning Data Structures and Algorithms<br>💬 Ask me about Programming
+🔭 I’m currently working on Sudoku (Java Desktop Application)<br><br>
+🌱 I’m currently learning Data Structures and Algorithms<br><br>
+💬 Ask me about Programming
 
 
 ## 🌐 Socials:
