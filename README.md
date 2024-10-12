@@ -1,6 +1,7 @@
 ## Hi👋, I'm Dhanush Gowda M
 💡 A Passionate developer from Banglore ♨️ 
-<br>
+
+
 [![](https://visitcount.itsvg.in/api?id=DhanushGowdaM&icon=5&color=12)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
