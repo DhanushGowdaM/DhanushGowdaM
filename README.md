@@ -5,7 +5,7 @@
 🌱 I’m currently learning Data Structures and Algorithms<br><br>
 💬 Ask me about Programming<br><br>
 👍 Checkout my resume <a href="https://drive.google.com/file/d/1yysTFj_Ui-frPOOfirhOx43sL7yJlSQV/view?usp=drivesdk">here</a> <br> <br>
-🙌 Reach out to me <a href = "dhanushgowdam2003@gmail.com">mail</a> 
+🙌 Reach out to me at dhanushgowdam2003@gmail.com 
 
 
 ## 🌐 Socials:
