@@ -3,7 +3,6 @@
 
 
 [![](https://visitcount.itsvg.in/api?id=DhanushGowdaM&icon=5&color=12)](https://visitcount.itsvg.in)
-
 # 💫 About Me:
 🔭 I’m currently working on Sudoku (Java Desktop Application)<br><br>
 🌱 I’m currently learning Data Structures and Algorithms<br><br>
