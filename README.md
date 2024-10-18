@@ -6,7 +6,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Sudoku (Java Desktop Application)<br><br>
 🌱 I’m currently learning Data Structures and Algorithms<br><br>
-💬 Ask me about Programming, Core Java<br><br>
+💬 Ask me about Programming, Core Java, AWS<br><br>
 👍 Checkout my resume <a href="https://drive.google.com/file/d/1yysTFj_Ui-frPOOfirhOx43sL7yJlSQV/view?usp=drivesdk">here</a> <br> <br>
 🙌 Reach out to me at dhanushgowdam2003@gmail.com 
 
